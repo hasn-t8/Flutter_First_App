@@ -3,7 +3,7 @@ import 'package:techchaps/screens/contact_us.dart';
 import 'package:techchaps/screens/home.dart';
 import 'package:techchaps/screens/about_us.dart';
 import 'package:techchaps/widget/bottom_navigation_bar.dart';
-
+import 'package:techchaps/widget/maindrawer.dart';
 void main() {
   runApp(MyApp());
 }
@@ -49,6 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: const Center(child: Text('TechChaps',style: TextStyle(fontWeight: FontWeight.bold),)),
       ),
+      drawer:MainDrawer(),
       body: _screens[_currentIndex],
       bottomNavigationBar: CustomBottomNavigationBar(
         currentIndex: _currentIndex,

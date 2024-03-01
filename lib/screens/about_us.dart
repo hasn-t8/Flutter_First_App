@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:techchaps/screens/GalleryPage.dart';
 
-class AboutUsPage extends StatelessWidget {
+class AboutUsPage extends StatelessWidget
+{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
