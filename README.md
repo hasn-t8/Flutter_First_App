@@ -4,12 +4,18 @@ TechChaps is a Flutter project showcasing navigation using a bottom navigation b
 
 ## Screenshots
 
-### Home Screen                          .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      ### About Us Screen                                
-![Home Screen](screenshots/Home.png)     .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          ![About Us Screen](screenshots/About_us.png)   
+### Home Screen
+![Home Screen](screenshots/Home.png)
 
-### Gallery Screen                          .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    ### Contact Us Screen
-![Gallery Screen](screenshots/Gallery.png)  .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      ![Contact Us Screen](screenshots/Contact_us.png)
- 
+### About Us Screen
+![About Us Screen](screenshots/About_us.png)
+
+### Contact Us Screen
+![Contact Us Screen](screenshots/Contact_us.png)
+
+### Gallery Screen
+![Gallery Screen](screenshots/Gallery.png)
+
 ## Table of Contents
 
 - [Features](#features)
